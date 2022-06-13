@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsoCieWCRThUGl8OePfIK5xkd33Kl30o0T/Unnhz8XfCocU7mVQO2oqFpOzdv2nN7FGe7Up090b5CNRsOLuEJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geremias.bezerra\\source\\repos\\Exercise (Diference)\\Exercise (Diference)\\Exercise (Diference).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geremias.bezerra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
